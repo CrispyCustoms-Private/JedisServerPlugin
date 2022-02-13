@@ -1,0 +1,4 @@
+name: JedisServerPlugin
+main: dev.Jacrispys.JedisServerPlugin.JedisServerPluginMain
+version: ${project.version}
+author: Jacrispys
